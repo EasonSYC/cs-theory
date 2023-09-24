@@ -3,7 +3,7 @@ namespace CSTheory
 {
 	public class Week1TwosComplement
 	{
-		public static void Fun()
+		public Week1TwosComplement()
 		{
             // Write a program to take a number in two's complement that will return the negative inverse of it.
             // Assume 8 bits (unless you want to generalise... but it would be nice to be able to specify the number of bits being used)

@@ -3,7 +3,7 @@ namespace CSTheory
 {
 	public class Week1NumberBases
 	{
-		public static void Fun()
+		public Week1NumberBases()
 		{
             // Research (Bond p28) the successive division algorithm to convert a denary number into a binary number. Implement and test.
 

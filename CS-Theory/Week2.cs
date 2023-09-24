@@ -3,17 +3,17 @@ namespace CSTheory
 {
 	public class Week2
 	{
-		public static void Fun()
+		public Week2()
 		{
 			// Week 2 Computing Units Exercise
 
 			Console.WriteLine("Week 2 Computing Units Exercise");
-			Week2ComputingUnitsExercise.Fun();
+			new Week2ComputingUnitsExercise();
 			Console.ReadLine();
 
 			// Week 2 Fixed Point Exercise
 			Console.WriteLine("Week 2 Fixed Point Exercise");
-			Week2FixedPoint.Fun();
+			new Week2FixedPoint();
 			Console.ReadLine();
 
 			Console.ReadLine();

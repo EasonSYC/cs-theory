@@ -7,13 +7,13 @@ class Program
         // Week 1
 
         Console.WriteLine("Week 1");
-        Week1.Fun();
+        new Week1();
         Console.ReadLine();
 
         // Week 2
 
         Console.WriteLine("Week 2");
-        Week2.Fun();
+        new Week2();
         Console.ReadLine();
 
         Console.ReadLine();

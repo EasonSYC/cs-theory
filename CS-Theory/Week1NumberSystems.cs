@@ -3,7 +3,7 @@ namespace CSTheory
 {
 	public class Week1NumberSystems
 	{
-        public static void Fun()
+        public Week1NumberSystems()
         {
             // Research Gauss's method to calculate the sum of the first 50 natural numbers.
             // Write a formula in terms of n to calculate the sum of all the natural numbers from 1 to n.

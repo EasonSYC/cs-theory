@@ -3,7 +3,7 @@ namespace CSTheory
 {
 	public class Week2ComputingUnitsExercise
 	{
-		public static void Fun()
+		public Week2ComputingUnitsExercise()
 		{
             // Complete the programming exercise attached in whatever language you wish to use.
             // Ignore the reference to a Jupyter Notebook - just creation your own solution file.
