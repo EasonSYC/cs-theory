@@ -16,6 +16,12 @@ class Program
         new Week2();
         Console.ReadLine();
 
+        // Week 3
+
+        Console.WriteLine("Week 3");
+        new Week3();
+        Console.ReadLine();
+
         Console.ReadLine();
     }
 
